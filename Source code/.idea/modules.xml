@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Medicine_Reminder_Android_App_Project.iml" filepath="$PROJECT_DIR$/.idea/modules/Medicine_Reminder_Android_App_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Medicine_Reminder_Android_App_Project.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Medicine_Reminder_Android_App_Project.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Medicine_Reminder_Android_App_Project.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Medicine_Reminder_Android_App_Project.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Medicine_Reminder_Android_App_Project.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Medicine_Reminder_Android_App_Project.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Medicine_Reminder_Android_App_Project.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Medicine_Reminder_Android_App_Project.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
