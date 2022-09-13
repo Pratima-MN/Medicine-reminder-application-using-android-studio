@@ -1,0 +1,2 @@
+#- File Locator -
+listingFile=../../apk/mock/debug/output-metadata.json
